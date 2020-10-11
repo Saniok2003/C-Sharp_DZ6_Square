@@ -1,0 +1,2 @@
+C:\Users\Hp\source\repos\Csharp DZ 6\Csharp DZ 6\obj\Debug\Csharp DZ 6.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Csharp DZ 6\Csharp DZ 6\obj\Debug\Csharp DZ 6.csproj.CoreCompileInputs.cache
